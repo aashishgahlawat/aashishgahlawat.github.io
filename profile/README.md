@@ -1,10 +1,4 @@
-<style type="text/css">
-    img {
-        width: 500px;
-    }
-</style>
-
-![Profile Image](../media/images/my_profile.jpeg)
+![Profile Image](../media/images/my_profile.jpeg =500pxx500px)
 # AASHISH GAHLAWAT
 
 
