@@ -1,4 +1,4 @@
-![Profile Image](../media/images/my_profile.jpeg =500pxx500px)
+![Profile Image](../media/images/my_profile.jpeg)
 # AASHISH GAHLAWAT
 
 
