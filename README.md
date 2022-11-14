@@ -3,9 +3,9 @@
 #### Summary | [Detailed] | [Blogs] | [Site](https://aashishgahlawat.github.io/)
 ```
 Name: Aashish Gahlawat
-Hometown: Sonipat, Haryana (131001)
-Current Location: Karnal, Haryana (132001)
-Designation: Blockchain (Solidity) + Backend (Python (django))
+Hometown: Sonipat, Haryana, India (131001)
+Current Location: Karnal, Haryana, India (132001)
+Designation: Blockchain (Solidity) + Backend (Python [django])
 Current Organisation: HCODE Technologies Pvt. Ltd. (Karnal - Haryana (132001))
 ```
 
@@ -15,6 +15,8 @@ Current Organisation: HCODE Technologies Pvt. Ltd. (Karnal - Haryana (132001))
 [StackOverflow](https://stackoverflow.com/users/9437787/aashish-gahlawat) |
 [GitHub](https://github.com/aashishgahlawat)
 
+<br/><br/>
+
 # Projects
 
 <!-- TABLE_GENERATE_START -->
@@ -22,14 +24,14 @@ Current Organisation: HCODE Technologies Pvt. Ltd. (Karnal - Haryana (132001))
 | Type                  | Summary (Tech)                                                                                 |
 |-----------------------|------------------------------------------------------------------------------------------------|
 | [Blockchain]          | Solidity (Ethereum & Polygon)                                                                  |
-| [Django]              | Deployment, Object Level Permissioning Customized Admin, API integration, Database Design, Web3 automation                                                               |
-| [Wordpress]           | NameCheap Deployment, SSL Installation, Emails Configuration, Website Designing & Planning (Elementor, WooCommerce, Optimization, Documentation) |
+| [Backend]              | Python [Django], Postgres, Redis, AWS, Linux                                                                |
+| [Wordpress]           | NameCheap, SSL Installation, Emails Configuration, Elementor, WooCommerce, Optimization, Documentation |
 | [AdobeXd]             | High Fidelity Designing & Planning                                                             |
 
 <!-- TABLE_GENERATE_END -->
 
 [Blockchain]: ./projects/blockchain/README.md
-[Django]: ./projects/django/README.md
+[Backend]: ./projects/django/README.md
 [Detailed]: ./profile/README.md
 [Wordpress]: ./projects/miscellaneous/wordpress/README.md
 [AdobeXd]: ./projects/miscellaneous/adobexd/README.md

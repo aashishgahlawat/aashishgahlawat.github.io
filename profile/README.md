@@ -1,9 +1,5 @@
 # AASHISH GAHLAWAT
 
-```
-This is about me. Thanks for visiting!
-```
-
 ### Current
 
 ```
@@ -22,8 +18,8 @@ High School: Hindu Vidyapeeth, Sonipat (131001), Haryana, India
 ### College
 
 ```
-Bachelors in Technology (Information Technology): Panipat Institute of Engineering and Technology, Samalkha, Panipat (), Haryana, India
-Affiliated to: Kurukshetra University, Kurukshetra
+Bachelors in Technology (Information Technology): Panipat Institute of Engineering and Technology, Samalkha, Panipat (132101), Haryana, India
+Affiliated to: Kurukshetra University, Kurukshetra, Haryana, India
 ```
 
 ### Internship
